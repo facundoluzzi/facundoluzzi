@@ -5,7 +5,7 @@ Me gusta aprender, y desafiarme. Encontrar problemas, y hallar la mejor forma de
 
 * 🚀  Actualmente estoy trabajando para [Enta Consulting](http://www.entaconsulting.com) como Desarrollador RPA 
 * 🌍  Buenos Aires, Argentina
-* ⚡  Python, Rust, Java, C, C++, SmallTalk, Scikit Learn, Spark, Pandas, y más.
+* ⚡  Rust, Python, Java, C, C++, SmallTalk, Scikit Learn, Spark, Pandas, y más.
 
 
 
