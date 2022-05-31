@@ -1,6 +1,3 @@
-Hola! Soy Facundo 
-========================
-
 Estudiante de Análisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires
 ----------------------------------------------------------------------
 
