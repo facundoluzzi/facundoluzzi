@@ -1,4 +1,4 @@
-Estudiante de Análisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires
+Estudiante en Facultad de Ingenieria de la UBA
 ----------------------------------------------------------------------
 
 Me gusta aprender, y desafiarme. Encontrar problemas, y hallar la mejor forma de solucionarlos. Soy muy entusiasta, me gusta siempre estar aprendiendo y explorando nuevas áreas del mundo de la programación que aún desconozco.
