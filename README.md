@@ -7,7 +7,7 @@ Estudiante de Análisis de Sistemas en Facultad de Ingenieria de la UBA
 Me gusta aprender, y desafiarme. Encontrar problemas, y hallar la mejor forma de solucionarlos. Soy muy entusiasta, me gusta siempre estar aprendiendo y explorando nuevas áreas del mundo de la programación que aún desconozco.
 
 * 🌍  Buenos Aires, Argentina
-* 🚀  Actualmente estoy trabajando para [Enta Consulting] como Desarrollador RPA (http://www.entaconsulting.com)
+* 🚀  Actualmente estoy trabajando para [Enta Consulting](http://www.entaconsulting.com) como Desarrollador RPA 
 * 
 * ⚡  Python, Rust, Java, C, C++, SmallTalk, Scikit Learn, Spark, Pandas, y más.
 
